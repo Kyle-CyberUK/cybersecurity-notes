@@ -1,0 +1,20 @@
+# Overview
+- The Open Systems Interconnection (OSI) model is a 7-layer networking framework that defines how devices send, receive and interpret data.
+
+## Key Concepts
+- Separates network communication into different logical layers.
+- Each layer performs a specific function.
+- Undergoes processes where information is added at each stage (encapsulation)
+- Isolates networking issues during troubleshooting.
+
+## Layers
+1. Physical
+2. Data Link
+3. Network
+4. Transport
+5. Session
+6. Presentation
+7. Application
+
+## Relevance
+- Helps identify where a network issue could be occurring.
