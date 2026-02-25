@@ -10,7 +10,6 @@ I am currently transitioning into the IT industry and building hands-on skills t
 - Linux basics
 - Security concepts
 - Tools and enumeration fundamentals
-- TryHackMe room summaries
 
 ## Purpose
 
