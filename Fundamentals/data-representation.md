@@ -1,7 +1,7 @@
 # Data Representation
 
 ## Overview
-- Computers represent numbers, colours, and other data using bits,
+- Computers represent numbers, colours, and other data using bits.
 
 ## Representing Colours
 - Computers use Red, Green, and Blue to create colours.
