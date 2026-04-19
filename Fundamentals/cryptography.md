@@ -25,5 +25,12 @@
   1. Asymmetric is used to securely exchange a symmetric key.
   2. Symmetric is then used as it is faster.
 
+## XOR Operation
+- Binary operation used in encryption.
+- Represented by the symbol ⊕ or ^.
+- Examples:
+  - 0 ⊕ 0 = 0
+  - 0 ⊕ 1 = 1
+
 ## Relevance
 - Cryptography supports confidentiality by keeping data secure and integrity by preventing modification. It also ensures secure communication over untrusted networks.
