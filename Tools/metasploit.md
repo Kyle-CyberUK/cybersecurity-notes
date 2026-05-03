@@ -24,6 +24,6 @@
 - Perform post-exploitation (privilege escalation, lateral movement).
 
 ## Relevance
-- Demonstrates the full attack lifecycle: **Recon, Scan, Exploit, Post-exploit**.
+- Demonstrates the full attack lifecycle: **Recon > Scan > Exploit > Post-exploit**.
 - Widely used in penetration testing and red team operations.
 - Essential for understanding real-world exploitation techniques.
