@@ -23,6 +23,16 @@
 - Execute the exploit to gain access.
 - Perform post-exploitation (privilege escalation, lateral movement).
 
+## Meterpreter
+- Advanced post-exploitation payload used within Metasploit.
+- Provides an interactive shell on the target system.
+- Runs in memory - harder to detect.
+- Supports:
+  - File system access
+  - Process control
+  - Credential dumping
+  - Privilege escalation
+
 ## Relevance
 - Demonstrates the full attack lifecycle: **Recon > Scan > Exploit > Post-exploit**.
 - Widely used in penetration testing and red team operations.
